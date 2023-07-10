@@ -1,0 +1,1 @@
+Source code for blog post titled **Working with media resources in OData** - [Part 1](https://devblogs.microsoft.com/odata/working-with-media-resources-in-odata-part-1) and [Part 2](https://devblogs.microsoft.com/odata/working-with-media-resources-in-odata-part-2)

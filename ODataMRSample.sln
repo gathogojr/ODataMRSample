@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODataMRSample", "src\ODataMRSample\ODataMRSample.csproj", "{82E54463-460B-4AE7-B426-65C318D9903B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E54463-460B-4AE7-B426-65C318D9903B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E54463-460B-4AE7-B426-65C318D9903B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E54463-460B-4AE7-B426-65C318D9903B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E54463-460B-4AE7-B426-65C318D9903B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32328BBB-329E-4267-8874-AC729F3E910F}
+	EndGlobalSection
+EndGlobal
